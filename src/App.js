@@ -15,6 +15,8 @@ import YouTubePage from "./pages/YouTubePage/YouTubePage";
 function App() {
   return (
     <div>
+
+
       <Navbar />
       <Routes>
         <Route path="/*" element={<YouTubePage />} />
