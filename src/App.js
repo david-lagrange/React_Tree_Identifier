@@ -6,6 +6,8 @@ import "./App.css";
 import LoginPage from "./pages/LoginPage/LoginPage";
 import RegisterPage from "./pages/RegisterPage/RegisterPage";
 
+// Hello
+
 // Component Imports
 import Navbar from "./components/NavBar/NavBar";
 
